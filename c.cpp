@@ -13,7 +13,7 @@ int main(){
         cout<<"Nhap vao ten nhan vien "<<i+1<<" :   ";
         cin>>name[i];
     }
-    cout<<"\nDanh sach cac nhan vien đa nhap";
+    cout<<"\nDanh sach cac nhan vien da nhap\n";
     for(int i= 0; i<n; i++){
         cout<<i+1<<" :"<<name[i];
         cout<<endl;
