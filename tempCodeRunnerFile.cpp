@@ -18,5 +18,24 @@ int main(){
         cout<<i+1<<" :"<<name[i];
         cout<<endl;
     }
+    
+     cout<<"\nDanh sach cac nhan vien da nhap\n";
+    for(int i= 0; i<n; i++){
+        cout<<i+1<<" Nhan vien moi sua:"<<name[i];
+        cout<<endl;
+    }
+    
+     for(int i= 0; i<n; i++){
+        cout<<i+1<<" Nhan vien moi sua:"<<name[i];
+        cout<<endl;
+    }
+
+     for(int i= 0; i<n; i++){
+        cout<<i+1<<" Nhan vien moi sua new:"<<name[i];
+        cout<<endl;
+    }
+
+    
+    
     return 0;
 }
